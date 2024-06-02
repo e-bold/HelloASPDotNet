@@ -28,3 +28,4 @@ C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\HelloASPDotNet\HelloA
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\HelloASPDotNet\HelloASPDotNet\obj\Debug\net8.0\HelloASPDotNet.pdb
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\HelloASPDotNet\HelloASPDotNet\obj\Debug\net8.0\HelloASPDotNet.genruntimeconfig.cache
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\HelloASPDotNet\HelloASPDotNet\obj\Debug\net8.0\ref\HelloASPDotNet.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\HelloASPDotNet\HelloASPDotNet\obj\Debug\net8.0\HelloASPDotNet.sourcelink.json
